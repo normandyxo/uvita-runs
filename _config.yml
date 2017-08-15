@@ -4,6 +4,8 @@
 
 title:               Hydejack
 
+theme:               jekyll-theme-hydejack
+
 # The unique resource location of your page.
 # Set to `https://<username>.github.io` when hosting on GitHub Pages
 url:                 https://qwtel.com
