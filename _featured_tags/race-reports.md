@@ -1,7 +1,7 @@
 ---
 layout: list
 title: Race reports
-slug: rate-reports
+slug: race-reports
 description: >
   Retrospective on races attempted/completed.
 ---

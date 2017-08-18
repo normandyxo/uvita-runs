@@ -12,3 +12,7 @@ gem "jekyll-sitemap", "~> 1.0"
 gem "jekyll-theme-hydejack"
 
 gem "classifier-reborn", "~> 2.1"
+
+# Ghost -> Jekyll import gems
+gem "sequel"
+gem "sqlite3"

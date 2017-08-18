@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Yosemite Half 2017
-tags: [rate-reports]
+tags: [race-reports]
 author: uvita
 ---
 
