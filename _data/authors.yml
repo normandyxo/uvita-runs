@@ -45,6 +45,7 @@ uvita:
     # spotify:         <user>/<number>
     # soundcloud:      <username>
     # lastfm:          <username>
+    strava:          uvita-runs
     instagram:       normandyxo
     # flickr:          <string@string>
     # 500px:           <username>

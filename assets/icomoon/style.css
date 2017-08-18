@@ -243,3 +243,8 @@
 .icon-box-add:before {
   content: "\e95e";
 }
+.icon-strava {
+  content: url('strava.svg');
+  height: 28px;
+  width: 28px;
+}
