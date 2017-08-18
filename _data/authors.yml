@@ -8,9 +8,9 @@ uvita:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about: |
-    I am a 26 year old runner, currently training for my second half marathon.
+    I am a 26 year old runner, currently training for a half marathon.
 
-    Last year, I challenged myself to complete a half marathon for the first
+    In 2016, I challenged myself to complete a half marathon for the first
     time. I followed Hal Higdon's Novice plan and completed the Wild Horse Half
     Marathon in Chula Vista, CA. It was a hot day and a difficult race but it
     taught me that with enough preparation and dedication I can accomplish
@@ -21,7 +21,7 @@ uvita:
     (Go Lakers!). I also enjoy looking at pictures of cute animals on the
     internet.
 
-    Someday, I'd like to conquer all 26.2 miles of a marathon; I'll settle for a half for now.
+    Someday, I'd like to conquer all 26.2 miles of a marathon but I'll settle for a half for now.
 
   # This photo will be used in the about section
   picture:
@@ -46,7 +46,7 @@ uvita:
     # soundcloud:      <username>
     # lastfm:          <username>
     strava:          uvita-runs
-    instagram:       normandyxo
+    instagram:       uvitaruns
     # flickr:          <string@string>
     # 500px:           <username>
     # dribbble:        <username>
