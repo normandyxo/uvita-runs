@@ -1,0 +1,11 @@
+---
+# https://msdn.microsoft.com/en-us/library/ie/dn455106.aspx
+---
+<?xml version="1.0" encoding="utf-8"?>
+<browserconfig>
+  <msapplication>
+    <tile>
+      <TileColor>{{ site.accent_color | default:'#4fb1ba' }}</TileColor>
+    </tile>
+  </msapplication>
+</browserconfig>

@@ -1,8 +1,9 @@
 ---
 layout: about
 title: About
+description: >
 menu: true
-order: 3
+order: 4
 ---
 
 ---
