@@ -2,6 +2,8 @@
 layout: list
 title: Training
 slug: training
+tag_color: '#2873A8'
 description: >
-  Posts on training runs and workouts. From easy jogs, to hill workouts and long runs.
+  "My confidence comes from the daily grind - training my butt off day in and day out.""
+  - Hope Solo
 ---
