@@ -3,10 +3,9 @@ layout: about
 title: About
 description: >
 menu: true
-order: 4
+order: 1
 ---
 
----
 
 ### Tech
 
