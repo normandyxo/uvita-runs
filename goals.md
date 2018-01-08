@@ -53,3 +53,7 @@ The fall I took while bouldering reinstated my fear of heights, but did not kill
 Before the injury, I weighed 148lbs which is considered overweight for my height. At the time I was working on getting my weight back to a healthy level. For now, I am putting that goal on pause to focus on healing my leg. Once I am capable of walking, I will weigh myself and set a realistic goal.
 
 <i class="material-icons md-18 inline">check_box_outline_blank</i> TBD
+
+
+### History
+* 1/7/2018 - added page.
