@@ -103,10 +103,10 @@ disqus_shortname:
 
 hydejack:
   # Configure the order of complementary content on blog posts
-  post_addons:         [about, newsletter, related]
+  post_addons:         [related]
 
   # Configure the order of complementary content on project pages
-  project_addons:      [about, newsletter, other]
+  project_addons:      [other]
 
   # If you do not use Google Fonts, set to `true`.
   no_google_fonts:     false
