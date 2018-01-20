@@ -38,18 +38,6 @@ Although I was excited to get out and see my coworkers, I felt intimidated and n
 
   Below is the method I used when I returned to work. For reference, I drive a small 2001 Toyota Corolla; not the roomiest of cars.
 
-  1. Using the scooter, I opened both of the doors on the driver's side of the car. I kept a cane on the driver's seat. I took it out, and placed it in front of the rear door.
-  1. I stood up using the cane for balance and carefully placed the scooter on the back seat. This may take some effort, my scooter weighs 21lbs.
-  1. After the scooter is stashed safely, I used the cane and the car itself to slowly inch backwards to close the rear door and then inch forward to the driver's seat. "Inching forward" was a combination of small hops (risky) and the twisting of my good foot to take mini steps.
-  1. I sat down on the driver's seat and placed the cane on the front passenger seat. I then closed the door, put on my seatbelt and drove off.
-
-  To get out of of the car:
-
-  1. I opened the driver's door and place the cane outside.
-  1. I stood up using the cane for support, and then inched my way to the rear door. I made sure to be past the opening path of the door.
-  1. I opened the door and lifted the scooter out of the car and onto the ground. I then put my injured leg on the scooter and backed away enough so that the door could be closed. I then closed the door.
-  1. Using the scooter, I rolled to the front door while carrying the cane in one hand. I did this slowly since I only had one hand on the handlebars. I placed the cane on the driver's seat, closed the door, locked my car and rolled away.
-
 **2. Parking**
 
   You may qualify for a temporary handicap placard because of the injury. To get a temporary placard in California, you and your physician must fill out a form. The form must then be turned in to the DMV along with a small fee. Having the placard is a huge advantage while recovering. Ask your physician for more information.
