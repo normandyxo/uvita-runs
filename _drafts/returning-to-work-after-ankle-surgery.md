@@ -36,8 +36,6 @@ Although I was excited to get out and see my coworkers, I felt intimidated and n
 
   If using a knee scooter and self driving, a cane can be an good intermediate tool when getting in and out of the car. A cane will fit in the front seat, but it is cumbersome to move using only one foot. Repeatedly twisting the foot side to side while inching forward was the best way that work for me.
 
-  Below is the method I used when I returned to work. For reference, I drive a small 2001 Toyota Corolla; not the roomiest of cars.
-
 **2. Parking**
 
   You may qualify for a temporary handicap placard because of the injury. To get a temporary placard in California, you and your physician must fill out a form. The form must then be turned in to the DMV along with a small fee. Having the placard is a huge advantage while recovering. Ask your physician for more information.
