@@ -7,9 +7,9 @@ author: uvita
 
 > Disclaimer: I am not a medical professional. This post just documents my experience in returning to a desk job wearing a cast after ankle surgery. When in doubt, always ask your attending physician.
 
-I am a software engineer which means that my job is spent 70% sitting at my desk, 10% attending meetings, and 10% snacking or socializing. After spending nearly a month off work while recovering from an ankle fracture, I finally made it to work yesterday. I am non weight bearing, and wearing a cast on my left leg which limits my mobility.
+I am a software engineer which means that my job is spent 70% sitting at my desk, 10% attending meetings, and 10% snacking or socializing. After spending nearly a month off work while recovering from an ankle fracture, I finally made it to work this week. I am non weight bearing and wearing a cast on my left leg which limits my mobility.
 
-Although I was excited to get out and see my coworkers, I felt intimidated and nervous for my first day out. Since the injury, the only outings I'd had were to the orthopedist or the hospital. I had a few days to prepare myself for success. Below is the approach I took to make sure I had a successful and safe day at work.
+Although I was excited to get out of the apartment, I felt intimidated and nervous for my first day out. Since the injury, the only outings I'd had were to the orthopedist or the hospital. I had a few days to prepare myself for success. Below is the approach I took to make sure I had a successful and safe day at work. I hope this post will help someone in a similar situation.
 
 #### Jump to
 1. [Prerequisites](#prerequisites)
@@ -21,7 +21,7 @@ Although I was excited to get out and see my coworkers, I felt intimidated and n
 ## Prerequisites
 **1. Doctor's all clear**
 
-  Before even considering going back to work, you must get the ok from your attending physician. Depending on your workplace, you may need a return to work note from your doctor.  
+  Before even considering going back to work, you must get the ok from your attending physician. Depending on your workplace, you may need a return to work note from your doctor. Make sure to ask both your work's HR department and your doctor about what is required.
 
 **2. Some way to get around**
 
@@ -34,7 +34,7 @@ Although I was excited to get out and see my coworkers, I felt intimidated and n
 
   Crutches should fit in the front passenger seat of most cars. If you are using crutches, just sit in the driver's seat, and stash the crutches on the passenger seat. Remember that the length of crutches can be adjusted if they are too long to fit in the car.
 
-  If using a knee scooter and self driving, a cane can be an good intermediate tool when getting in and out of the car. A cane will fit in the front seat, but it is cumbersome to move using only one foot. Repeatedly twisting the foot side to side while inching forward was the best way that work for me.
+  If using a knee scooter and self driving, a cane can be an good intermediate tool when getting in and out of the car. A cane will fit in the front seat, but it is cumbersome to move using only one foot. Repeatedly twisting the foot side to side while inching forward was the best way that work for me. Most knee scooters can fold, so they should fit on the front passenger seat. Beware that knee scooters are ~20lbs, so they maybe be difficult to lift in and out of a car on your own.
 
 **2. Parking**
 
@@ -44,13 +44,17 @@ Although I was excited to get out and see my coworkers, I felt intimidated and n
 
 ## During work
 **1. Keeping the leg elevated**
-// TODO: Add section on leg elevated.
+
+  To avoid swelling, the injured leg must be kept elevated such that the foot is at least at the same height as your hip while sitting. To keep it elevated, you can use a portable outdoor stool, an ottoman, a sturdy box, or even an upside down trashcan with a pillow on top. The advantage of the portable outdoor stool is that it is light weight. I recommend that you find what you will use to elevate your leg before returning to work.
 
 **2. Remote into meetings if possible**
-// TODO: Add section on leg elevated.
 
-**3. Bring your own lunch**
-// TODO: Add section on leg elevated.
+  Joining meetings via a conference call may be a good idea when the meeting is crowded, or the meeting room is particularly inaccessible. If joining meetings remotely is not a possibility, then getting to the meeting room early is a good idea to ensure you obtain a comfortable seat.
+
+  In my case, I have two recurring meetings. The first is a 20 person meeting in a room with 20 seats. The second is a meeting with 5 people in a room with 10 seats. I join the earlier via our company's video conferencing software and attend the latter in person.
+
+**3. Stay in for lunch**
+  Going out to eat everyday may not be the best idea while healing from ankle surgery. Bringing some leftovers with you for lunch will save two car trips.
 
 ## Heading home
 **1. Driving yourself**
@@ -65,8 +69,8 @@ Although I was excited to get out and see my coworkers, I felt intimidated and n
 ## Misc
 **1. Have an escape plan**
 
-  Be prepared in case you feel ill, or uncomfortable and need to go home early.
+  Be prepared in case you feel ill, or uncomfortable and need to go home early. On my first day back, my foot started to hurt 1 hour before my usual quitting time. It was most likely irritated due to the increase activity of the day. I was able to leave early and get back home to my comfortable spot.
 
 **2. Ask if you can work from home**
 
-  The ability to work from home is something that more and more workplaces are adopting. If you have the opportunity to, it will be a good idea work from home a couple of days a week. If you have a follow appointment with your doctor, I recommend that you work from home that day to minimize the number of trips for that day.
+  The ability to work from home is something that more and more workplaces are adopting. If you have the opportunity to, it will be a good idea work from home a couple of days a week. For example, I work home from on the days I have follow up appointments with the doctor to minimize the number of trips for that day.
