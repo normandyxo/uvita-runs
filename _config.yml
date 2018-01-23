@@ -27,13 +27,15 @@ title:                 uvita runs
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:
+  Blog on running, lifting and general fitness.
 
 # A shorter description for the sidebar.
 tagline:               >
-  A running blog.
+  Adventures in running, lifting, general fitness and fracture recovery.
+# A running blog; on hold while healing from an ankle fracture.
 
 # A list of keywords for your blog
-keywords:              []
+keywords:              [running, training, fitness, lifting, personal]
 
 # Used by jekyll-seo-tag...
 # TODO: update
