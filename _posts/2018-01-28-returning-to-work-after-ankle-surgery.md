@@ -2,14 +2,17 @@
 layout: post
 title: Returning to work after ankle surgery
 tags: [injury]
+keywords: [ankle surgery, knee scooter, work, recovery]
+description: >
+  Tips on returning to a desk job after undergoing ankle surgery to repair a fracture.
 author: uvita
 ---
 
 > Disclaimer: I am not a medical professional. This post just documents my experience in returning to a desk job wearing a cast after ankle surgery. When in doubt, always ask your attending physician.
 
-I am a software engineer which means that my job is spent 70% sitting at my desk, 10% attending meetings, and 10% snacking or socializing. After spending nearly a month off work while recovering from an ankle fracture, I finally made it to work this week. I am non weight bearing and wearing a cast on my left leg which limits my mobility.
+I am a software engineer which means that my job is spent 70% sitting at my desk, 10% attending meetings, and 10% snacking or socializing. After spending nearly a month off work while recovering from an ankle fracture, I finally made it to work last week.
 
-Although I was excited to get out of the apartment, I felt intimidated and nervous for my first day out. Since the injury, the only outings I'd had were to the orthopedist or the hospital. I had a few days to prepare myself for success. Below is the approach I took to make sure I had a successful and safe day at work. I hope this post will help someone in a similar situation.
+Although I was excited to get out of the apartment, I felt intimidated and nervous for my first day out. My mobility was quite limited because I was still wearing a cast, and was non weight bearing. Since the injury, the only outings I'd had were to the orthopedist or the hospital. I had a few days to prepare myself for success. Below is the approach I took to make sure I had a successful and safe day at work. I hope this post will help someone in a similar situation.
 
 #### Jump to
 1. [Prerequisites](#prerequisites)
@@ -34,7 +37,7 @@ Although I was excited to get out of the apartment, I felt intimidated and nervo
 
   Crutches should fit in the front passenger seat of most cars. If you are using crutches, just sit in the driver's seat, and stash the crutches on the passenger seat. Remember that the length of crutches can be adjusted if they are too long to fit in the car.
 
-  If using a knee scooter and self driving, a cane can be an good intermediate tool when getting in and out of the car. A cane will fit in the front seat, but it is cumbersome to move using only one foot. Repeatedly twisting the foot side to side while inching forward was the best way that work for me. Most knee scooters can fold, so they should fit on the front passenger seat. Beware that knee scooters are ~20lbs, so they maybe be difficult to lift in and out of a car on your own.
+  If using a knee scooter and self driving, a cane can be an good intermediate tool when getting in and out of the car. Most knee scooters can fold, so they should fit on the rear seat. Beware that knee scooters are ~20lbs, so they maybe be difficult to lift in and out of a car on your own. In my case, I lifted my scooter on the rear seat, and using the top of the car for balance, slowly shimmied my way to the driver's seat.
 
 **2. Parking**
 
@@ -71,6 +74,6 @@ Although I was excited to get out of the apartment, I felt intimidated and nervo
 
   Be prepared in case you feel ill, or uncomfortable and need to go home early. On my first day back, my foot started to hurt 1 hour before my usual quitting time. It was most likely irritated due to the increase activity of the day. I was able to leave early and get back home to my comfortable spot.
 
-**2. Ask if you can work from home**
+**2. Work from home**
 
   The ability to work from home is something that more and more workplaces are adopting. If you have the opportunity to, it will be a good idea work from home a couple of days a week. For example, I work home from on the days I have follow up appointments with the doctor to minimize the number of trips for that day.
