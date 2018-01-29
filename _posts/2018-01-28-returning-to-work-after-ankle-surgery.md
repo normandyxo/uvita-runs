@@ -5,6 +5,7 @@ tags: [injury]
 keywords: [ankle surgery, knee scooter, work, recovery]
 description: >
   Tips on returning to a desk job after undergoing ankle surgery to repair a fracture.
+hide_description: true
 author: uvita
 ---
 
