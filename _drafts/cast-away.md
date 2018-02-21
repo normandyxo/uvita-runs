@@ -31,7 +31,7 @@ Here's a photo showing the difference between my calves. The left one is the atr
 ![Calf comparison]({{ site.url }}/assets/img/2018/02/calf_comparison.jpeg)
 
 ### Slow movement
-Walking in crutches with partial weight bearing is slow compared to walking in crutches will no weight bearing and even slower compared to a wheelchair or a scooter. With partial weight bearing, I'm really slow to transfer some weight to my injured leg because I don't know how much weight it can take. My doctor advised that I take it slow and increase the weight as I am able. I think once I am more confident I will be able to move faster.
+Walking in crutches with partial weight bearing is slow compared to walking in crutches will no weight bearing and even slower compared to a wheelchair or a scooter. With partial weight bearing, I'm really slow to transfer some weight to my injured leg because I don't know how much weight it can take. My doctor advised that I take it slow and increase the weight as I am able. I think once I am more confident in my foot I will be able to move faster.
 
 ### Dry skin
 I've heard multiple times that our bodies are covered in dead skin. I didn't really believe it until I saw my leg yesterday. Without a proper was for 8 weeks, a lot of dead skin accumulated. Just putting on and taking off a sock knocks off a lot of skin flakes. To wash off the dead skin, I gently scrubbed it away using a sponge and warm water. It's taken a few tries, but I've seen the amount of flakes decrease.
