@@ -28,6 +28,18 @@
 </script>
 <!--<![endif]-->
 
+{% if site.google_analytics %}
+<!-- Global Site Tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', '{{ site.google_analytics }}');
+  </script>
+{% endif %}
+
 <noscript>
   {% assign font_heading = site.font_heading | default:"'Roboto Slab', Helvetica, Arial, sans-serif" %}
   {% assign font         = site.font         | default:"'Noto Sans', Helvetica, Arial, sans-serif" %}
