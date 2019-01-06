@@ -8,20 +8,20 @@ uvita:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about: |
-    I am a 27 year old runner, currently training for a half marathon.
+    I am a 26 year old runner from Southern California.
 
     In 2016, I challenged myself to complete a half marathon for the first
     time. I followed Hal Higdon's Novice plan and completed the Wild Horse Half
     Marathon in Chula Vista, CA. It was a hot day and a difficult race but it
     taught me that with enough preparation and dedication I can accomplish
-    almost anything. This year, completed the Yosemite Half Marathon in May.
+    almost anything. In 2017, I completed two half marathons.
 
-    I work as a software engineer in Southern California. During my free time I
-    like to lift weights, play video games, hike, and watch basketcall
-    (Go Lakers!). I also enjoy looking at pictures of cute animals on the
-    internet.
+    I work as a software engineer. During my free time I like to lift weights,
+    play video games, hike, rock climb, and watch basketball (Go Lakers!). I
+    also enjoy looking at pictures of cute animals on the internet.
 
-    Someday, I'd like to conquer all 26.2 miles of a marathon but I'll settle for a half for now.
+    Someday, I'd like to conquer all 26.2 miles of a marathon but I'll settle
+    for a half for now.
 
   # This photo will be used in the about section
   picture:
