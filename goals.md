@@ -16,7 +16,7 @@ The first half of 2019 will be dedicated to getting back to running long distanc
 ------
 Getting back to running will be most difficult activity to get back to since I will lose much of my conditioning and because it puts the ankle under a lot of pressure. Because of this, I have given myself two "easy" milestones. I anticipate that hitting the running trail will take 3 - 5 months.
 
-<i class="material-icons md-18 inline">check_box_outline_blank</i> Complete C25k
+<i class="material-icons md-18 inline">check_box</i> [Complete C25k](/2019/01/29/couch-to-5k-complete/)
 
 <i class="material-icons md-18 inline">check_box_outline_blank</i> Participate in a 5k
 
@@ -43,4 +43,5 @@ I am sticking to top rope only for this first milestone. As of January 5th, 2019
 <i class="material-icons md-18 inline">check_box_outline_blank</i> Attempt a 5.10d route
 
 ### History
+* 1/29/2019 - checked off [C25k](/2019/01/29/couch-to-5k-complete/).
 * 1/5/2019 - added page with June goals.
