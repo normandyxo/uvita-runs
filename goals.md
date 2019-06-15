@@ -45,3 +45,4 @@ I am sticking to top rope only for this first milestone. As of January 5th, 2019
 ### History
 * 1/29/2019 - checked off [C25k](/2019/01/29/couch-to-5k-complete/).
 * 1/5/2019 - added page with June goals.
+* 6/15/2019 - updated goals for end of year ([post](/2019/06/16/mid-year-check-in/)).
