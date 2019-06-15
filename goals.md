@@ -35,7 +35,9 @@ Rope climbing will continue to be my main focus in climbing. I will not set any 
 Climbing has replaced lifting as one of the two “main” sports I focus on. I now view lifting as complementary to both running and climbing. This is why I’ve moved lifting as the third category for the goals. I am keeping the same goals I had at the beginning of the year. The key will be consistency.
 
 <i class="material-icons md-18 inline">check_box_outline_blank</i> Squat 135lbs
+
 <i class="material-icons md-18 inline">checkbox</i> Deadlift 135lbs
+
 <i class="material-icons md-18 inline">check_box_outline_blank</i> Bench 100lbs
 
 ### History

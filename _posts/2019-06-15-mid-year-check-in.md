@@ -27,7 +27,9 @@ Looking back at my goals: some were quite lofty and some were achievable.
 I really enjoy weightlifting and I always struggle with keeping a consistent routine. This year has been no exception. When I get busy or tired, weightlifting is the first thing that I drop from the schedule. My goals for the first half of the year were quite lofty in retrospect. I will keep them for now and reassess in a few months. The only goal that I met was the 135 lb deadlift which happened by accident.
 
 <i class="material-icons md-18 inline">check_box_outline_blank</i> Squat 135lbs - my record this year was 105 lbs.
+
 <i class="material-icons md-18 inline">check_box</i> Deadlift 135 lbs - My gym got a new set of 25lb, 35lb, and 45lb plates that all look the same. I mistook the 45lb plates for the 35lb plates and discovered that I can deadlift with them on the bar.
+
 <i class="material-icons md-18 inline">check_box_outline_blank</i> Bench 100lbs - my record this year is 90 lbs
 
 ##### Climbing
@@ -35,6 +37,7 @@ I really enjoy weightlifting and I always struggle with keeping a consistent rou
 I’ve made significant progress in climbing. I started bouldering again (although very cautiously). On the top rope side of things,
 
 <i class="material-icons md-18 inline">check_box</i> Flash a 5.10c route - I flashed a 5.11a route in mid June.
+
 <i class="material-icons md-18 inline">check_box</i> Attempt a 5.10d route -  I regularly climb 5.10d routes now; I don’t climb them as smoothly as I should, but I can complete them.
 
 
